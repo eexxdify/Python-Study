@@ -73,3 +73,5 @@ def hello2():
 def test():
     return 1
     print("실행 안됨")  # ❌
+
+# 함수 이름을 변수로 쓰면 에러 발생
